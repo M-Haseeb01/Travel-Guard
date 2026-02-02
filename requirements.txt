@@ -3,5 +3,6 @@ aiohttp
 python-dotenv
 google-generativeai
 langchain
+langchain-openai
 langchain-google-genai
 gradio-client
